@@ -1,0 +1,23 @@
+{
+  "manifestVersion": 1,
+  "releases": [
+    {
+      "packageId": "qul-kfgqpc-v4-1441h",
+      "kind": "rendering",
+      "contentVersion": 1,
+      "schemaVersion": 1,
+      "minAppVersionCode": 45,
+      "maxAppVersionCode": null,
+      "enabled": false,
+      "edition": "qul-kfgqpc-v4-1441h",
+      "riwayah": "hafs",
+      "segmentation": "qul-40964a1b7932e9a69e0dfc0d58dce3b73e30a803febda119fd6828bcb75fac98",
+      "payloadVersion": "local-1",
+      "payloadManifestSha256": "25B95F1A4DDADA4E549A0C4064C7A7ED17F69BE5E2556FA54CEC73F252A96F1C",
+      "url": "https://github.com/YahyaDarwich/tilawa-resources/releases/download/v4-local-1/rendering.zip",
+      "sizeBytes": 70934567,
+      "uncompressedSizeBytes": 203919617,
+      "sha256": "86450AD9C24953A868EA9DC81C564B635BADD0B5B2473849048C047D32D02032"
+    }
+  ]
+}
