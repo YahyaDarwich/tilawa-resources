@@ -42,7 +42,7 @@
                          "kind":  "rendering",
                          "contentVersion":  3,
                          "schemaVersion":  1,
-                         "minAppVersionCode":  45,
+                         "minAppVersionCode":  48,
                          "maxAppVersionCode":  null,
                          "enabled":  true,
                          "edition":  "qul-kfgqpc-v4-1441h",
