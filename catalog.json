@@ -8,7 +8,7 @@
                          "schemaVersion":  1,
                          "minAppVersionCode":  45,
                          "maxAppVersionCode":  null,
-                         "enabled":  false,
+                         "enabled":  true,
                          "edition":  "qul-kfgqpc-v4-1441h",
                          "riwayah":  "hafs",
                          "segmentation":  "qul-40964a1b7932e9a69e0dfc0d58dce3b73e30a803febda119fd6828bcb75fac98",
